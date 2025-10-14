@@ -27,7 +27,8 @@
 
 ## 🌸 Favorite Project
 
-- 📝 [**Sharvari's Wardrobe**](https://github.com/SharvariShalgar20/Sharvari-s-Wardrobe)).
+- 👗 [**Sharvari's Wardrobe**](https://github.com/SharvariShalgar20/Sharvaris-Wardrobe) — A chic and aesthetic fashion platform where style meets simplicity. ✨
+  
 ---
 
 ## 🫧 Let's Connect
