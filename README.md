@@ -41,9 +41,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SharvariShalgar20&color=ff69b4&style=flat-square" alt="profile views"/>
-</p>
-
-<p align="center">
   ✨ *“Building little projects with big dreams.”* ✨
 </p>
