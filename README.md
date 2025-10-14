@@ -27,7 +27,7 @@
 
 ## 🌸 Favorite Project
 
-- 📝 [**Note App**](https://github.com/SharvariShalgar20/note-app) — A minimal note-taking web app with a clean UI.
+- 📝 [**Sharvari's Wardrobe**](https://github.com/SharvariShalgar20/Sharvari-s-Wardrobe)).
 ---
 
 ## 🫧 Let's Connect
